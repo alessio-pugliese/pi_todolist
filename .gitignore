@@ -1,2 +1,5 @@
 .vscode/
 .venv/
+build/
+test/
+__pycache__/
