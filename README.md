@@ -1,4 +1,4 @@
-# 📌 Dynamic Wallpaper To-Do
+# 📌 π To-Do list
 
 Un'applicazione desktop minimale, ultraleggera e silenziosa per Windows che integra la tua lista delle cose da fare direttamente sullo sfondo del desktop in tempo reale.
 
